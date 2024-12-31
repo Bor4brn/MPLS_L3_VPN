@@ -1,4 +1,4 @@
-Here is the detailed explanation of the configuration from the NSO's official README file:
+**Here is the detailed explanation of the configuration from the NSO's official README file:**
 
 == MPLS Layer3 VPN Example
 
